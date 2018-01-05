@@ -1,0 +1,7 @@
+This is to test the merge fn
+A
+B
+C
+D
+E
+
